@@ -1,0 +1,16 @@
+com\vnnews\common\rest\dto\NewsDTO.class
+com\vnnews\common\rest\request\FavoriteRequest.class
+com\vnnews\common\rest\request\NewsListRequest.class
+com\vnnews\common\rest\dto\CategoryDTO.class
+com\vnnews\common\rest\response\CategoryListResponse.class
+com\vnnews\common\Message.class
+com\vnnews\common\rest\base\BaseRespone.class
+com\vnnews\common\rest\base\BaseRequest.class
+com\vnnews\common\rest\request\CategoryListRequest.class
+com\vnnews\common\object\PageInfo.class
+com\vnnews\common\rest\dto\CommentDTO.class
+com\vnnews\common\rest\response\CommentListResponse.class
+com\vnnews\common\rest\request\ManipulateRequest.class
+com\vnnews\common\rest\request\NewsRequest.class
+com\vnnews\common\rest\request\CommentRequest.class
+com\vnnews\common\rest\response\NewsListResponse.class
